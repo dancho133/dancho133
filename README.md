@@ -1,16 +1,18 @@
-## Hi there 👋
+### Привет, я Danial 👋
 
-<!--
-**dancho133/dancho133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Founder @ Double** — строю операционную систему для стройки Казахстана 🇰🇿  
+🤖 Увлекаюсь AI-агентами, автоматизацией и «вторым мозгом» (Cognitive OS)  
+🌱 Учусь и строю публично (build in public) — здесь буду выкладывать проекты
 
-Here are some ideas to get you started:
+**Сейчас работаю над:**
+- 🏗️ Double — Construction OS для РК
+- 🎧 Open Sound — красивый self-hosted музыкальный плеер (свой «Spotify» для своей музыки)
+- 🧠 AI-агенты и пайплайны автоматизации
+ -и еще 100 своих проектов скоро начну делиться !
+**Стек:** JavaScript / TypeScript · React / Next.js · Node.js · Python · AI/LLM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Связаться:**  
+- LinkedIn:   https://www.linkedin.com/in/danikermek13/
+- Email: danchodoubl@gmail.com
+
+💬 Открыт к акселераторам, хакатон-командам и коллаборациям.
