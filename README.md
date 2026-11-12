@@ -1,19 +1,32 @@
-### Привет, я Danial 👋
+```
+██████     █    ██   ██ ███████    █    ██
+██   ██   ███   ███  ██    █      ███   ██
+██   ██  █████  ████ ██    █     █████  ██
+██   ██ ██   ██ ██ ████    █    ██   ██ ██
+██   ██ ███████ ██  ███    █    ███████ ██
+██████  ██   ██ ██   ██ ███████ ██   ██ ███████
+```
 
-🚀 **Founder @ Double** — строю операционную систему для стройки Казахстана 🇰🇿  
-🤖 Увлекаюсь AI-агентами, автоматизацией и «вторым мозгом» (Cognitive OS)  
-🌱 Учусь и строю публично (build in public) — здесь буду выкладывать проекты
+#### I give AI agents hands.
 
-**Сейчас работаю над:**
-- 🖥️ [Danikuse](https://github.com/dancho133/danikuse) — одна команда, дающая AI-агенту управляемое использование браузера Brave и рабочего стола Windows
-- 🏗️ Double — Construction OS для РК
-- 🎧 Open Sound — красивый self-hosted музыкальный плеер (свой «Spotify» для своей музыки)
-- 🧠 AI-агенты и пайплайны автоматизации
- -и еще 100 своих проектов скоро начну делиться !
-**Стек:** JavaScript / TypeScript · React / Next.js · Node.js · Python · AI/LLM
+My aim: one command that lets an AI agent use a browser and a desktop the way a careful human would — visible, measured, and never in the wrong place.
 
-**Связаться:**  
-- LinkedIn:   https://www.linkedin.com/in/danikermek13/
-- Email: danchodoubl@gmail.com
+[Danikuse](https://github.com/dancho133/danikuse) &mdash;
+[X](https://x.com/danik13dev) &mdash;
+[LinkedIn](https://www.linkedin.com/in/danikermek13/) &mdash;
+[Email](mailto:danchodoubl@gmail.com)
 
-💬 Открыт к акселераторам, хакатон-командам и коллаборациям.
+### Now
+
+**[Danikuse](https://github.com/dancho133/danikuse)** — one command: `/danikuse-my` drives my Brave through a small extension (no restart), `/danikuse-agent` runs the agent's own browser, `/danikuse-desktop` moves the cursor where I can watch. Benchmarked 5/5, Apache-2.0.
+
+**Double** — an operating system for construction in Kazakhstan.
+
+**Open Sound** — a self-hosted music player; my own library, my own rules.
+
+### Stack
+
+TypeScript · React / Next.js · Node.js · Python · AI/LLM · Playwright
+
+---
+*Building in public. If you work on browser agents, I want your review more than your star.*
