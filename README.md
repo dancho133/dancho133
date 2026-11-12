@@ -1,32 +1,20 @@
-```
-######     #    ##   ## #######    #    ##
-##   ##   ###   ###  ##    #      ###   ##
-##   ##  #####  #### ##    #     #####  ##
-##   ## ##   ## ## ####    #    ##   ## ##
-##   ## ####### ##  ###    #    ####### ##
-######  ##   ## ##   ## ####### ##   ## #######
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=DANIAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="DANIAL"/>
 
-#### I give AI agents hands.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=I+give+AI+agents+hands.;Danikuse:+one+command+for+browser+%2B+desktop." alt="typing"/>
+</p>
 
-My aim: one command that lets an AI agent use a browser and a desktop the way a careful human would — visible, measured, and never in the wrong place.
+<p align="center">
+  <a href="https://github.com/dancho133/danikuse">Danikuse</a> ·
+  <a href="https://x.com/danik13dev">X</a> ·
+  <a href="https://www.linkedin.com/in/danikermek13/">LinkedIn</a> ·
+  <a href="mailto:danchodoubl@gmail.com">Email</a>
+</p>
 
-[Danikuse](https://github.com/dancho133/danikuse) &mdash;
-[X](https://x.com/danik13dev) &mdash;
-[LinkedIn](https://www.linkedin.com/in/danikermek13/) &mdash;
-[Email](mailto:danchodoubl@gmail.com)
-
-### Now
-
-**[Danikuse](https://github.com/dancho133/danikuse)** — one command: `/danikuse-my` drives my Brave through a small extension (no restart), `/danikuse-agent` runs the agent's own browser, `/danikuse-desktop` moves the cursor where I can watch. Benchmarked 5/5, Apache-2.0.
-
-**Double** — an operating system for construction in Kazakhstan.
-
-**Open Sound** — a self-hosted music player; my own library, my own rules.
-
-### Stack
-
-TypeScript · React / Next.js · Node.js · Python · AI/LLM · Playwright
-
----
-*Building in public. If you work on browser agents, I want your review more than your star.*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dancho133/dancho133/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dancho133/dancho133/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/dancho133/dancho133/output/github-snake-dark.svg"/>
+  </picture>
+</p>
