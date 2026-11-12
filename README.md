@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=DANIAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="DANIAL"/>
+<p align="center">
+  <img src="assets/danial-3d.svg" width="720" alt="DANIAL spinning in 3D ASCII"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=I+give+AI+agents+hands.;Danikuse:+one+command+for+browser+%2B+desktop." alt="typing"/>
