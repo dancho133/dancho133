@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/danial-3d.svg?v=2" width="720" alt="DANIAL spinning in 3D ASCII"/>
+  <img src="assets/danial-3d.svg?v=3" width="720" alt="DANIAL spinning in 3D ASCII"/>
 </p>
 
 <p align="center">
